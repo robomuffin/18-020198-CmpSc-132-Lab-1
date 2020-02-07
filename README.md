@@ -1,5 +1,5 @@
-TOLENTINO, JAN CARLO VILLANUEVA
-BSCS-2B 
-FEB. 7, 2020 
+# TOLENTINO, JAN CARLO
+## BSCS-2B
+February 7, 2020
 LAB ACTIVITY 1
-My first GitHub commit!
+My first GitHub Commit
